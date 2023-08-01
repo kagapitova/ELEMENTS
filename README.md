@@ -17,26 +17,26 @@
 
 ## Technology stack
 
-- `Typescript <image src="https://emojis.slackmojis.com/emojis/images/1643514173/1383/typescript.png?1643514173" alt="TS">`.
+- `Typescript`.
   
-### It helps software developers add type safety to their projects and provides features like type aliases, interfaces, abstract classes, encapsulation, inheritance, and function overloading. Overall, TypeScript makes it easier to create large and complex projects and compiles to JavaScript.
+It helps software developers add type safety to their projects and provides features like type aliases, interfaces, abstract classes, encapsulation, inheritance, and function overloading. Overall, TypeScript makes it easier to create large and complex projects and compiles to JavaScript.
 
 - `React.js`.
 
-### It’s used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.
+It’s used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.
 
 - `Webpack`.
 
-### It helps to use different javascript/typescript files without having tension that will load first. It makes code shorter. It helps in converting many files other than javascript/typescript into modules. It compiles different javascript/typescript module.
+It helps to use different javascript/typescript files without having tension that will load first. It makes code shorter. It helps in converting many files other than javascript/typescript into modules. It compiles different javascript/typescript module.
 
 - `Eslint`.
 
-### ESLint is a static code analysis tool that checks your javaScript/typescript code for common problems, such as syntax errors, formatting issues, code style violations, and potential bugs.
+ESLint is a static code analysis tool that checks your javaScript/typescript code for common problems, such as syntax errors, formatting issues, code style violations, and potential bugs.
 
 - `Prettier`.
 
-### It improves code readability and makes the coding style consistent for teams. 
+It improves code readability and makes the coding style consistent for teams. 
 
 - `Husky`.
 
-### Husky is a tool that helps developers work with Git hooks more efficiently and run all the scripts that need to work at various stages. By simplifying the process of setting up Git hooks, developers can create effective solutions faster.
+Husky is a tool that helps developers work with Git hooks more efficiently and run all the scripts that need to work at various stages. By simplifying the process of setting up Git hooks, developers can create effective solutions faster.
